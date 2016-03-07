@@ -1,4 +1,4 @@
-package formulario;
+package formularios;
 
 import java.awt.Color;
 import javax.swing.JOptionPane;
@@ -55,7 +55,7 @@ public class Login extends javax.swing.JFrame {
             }
         });
 
-        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/formulario/imagenes/iniciar sesion badoo.jpg"))); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/formularios/imagenes/iniciar sesion badoo.jpg"))); // NOI18N
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
